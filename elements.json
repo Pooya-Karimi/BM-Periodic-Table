@@ -1,0 +1,946 @@
+{
+"H": {
+"Basic Info": {"Name": "Hydrogen", "Symbol": "H", "Atomic Number": 1, "Atomic Mass": "1.008 u", "Group": 1, "Period": 1, "Category": "Nonmetal"},
+"Physical Properties": {"Melting Point": "-259.14°C", "Boiling Point": "-252.87°C", "Density": "0.08988 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "1312 kJ/mol", "Atomic Radius": "53 pm", "Electron Configuration": "1s¹"},
+"Uses": ["Rocket fuel", "Ammonia production"],
+"Fun Fact": "90% of atoms are hydrogen!",
+"History": {"Discoverer": "Henry Cavendish", "Year": 1766, "Country": "England"}
+},
+"He": {
+"Basic Info": {"Name": "Helium", "Symbol": "He", "Atomic Number": 2, "Atomic Mass": "4.0026 u", "Group": 18, "Period": 1, "Category": "Noble Gas"},
+"Physical Properties": {"Melting Point": "-272.20°C", "Boiling Point": "-268.93°C", "Density": "0.1786 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "2372 kJ/mol", "Atomic Radius": "31 pm", "Electron Configuration": "1s²"},
+"Uses": ["Balloons", "MRI cooling"],
+"Fun Fact": "Cannot be frozen by cooling alone!",
+"History": {"Discoverer": "Janssen & Lockyer", "Year": 1868, "Country": "France/England"}
+},
+"Li": {
+"Basic Info": {"Name": "Lithium", "Symbol": "Li", "Atomic Number": 3, "Atomic Mass": "6.94 u", "Group": 1, "Period": 2, "Category": "Alkali Metal"},
+"Physical Properties": {"Melting Point": "180.54°C", "Boiling Point": "1342°C", "Density": "0.534 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "520 kJ/mol", "Atomic Radius": "152 pm", "Electron Configuration": "1s² 2s¹"},
+"Uses": ["Batteries", "Mood drugs"],
+"Fun Fact": "Floats on water then explodes!",
+"History": {"Discoverer": "Johan Arfwedson", "Year": 1817, "Country": "Sweden"}
+},
+"Be": {
+"Basic Info": {"Name": "Beryllium", "Symbol": "Be", "Atomic Number": 4, "Atomic Mass": "9.0122 u", "Group": 2, "Period": 2, "Category": "Alkaline Earth Metal"},
+"Physical Properties": {"Melting Point": "1287°C", "Boiling Point": "2469°C", "Density": "1.85 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "899 kJ/mol", "Atomic Radius": "112 pm", "Electron Configuration": "1s² 2s²"},
+"Uses": ["X-ray windows", "Rocket nozzles"],
+"Fun Fact": "Transparent to X-rays!",
+"History": {"Discoverer": "Louis Vauquelin", "Year": 1798, "Country": "France"}
+},
+"B": {
+"Basic Info": {"Name": "Boron", "Symbol": "B", "Atomic Number": 5, "Atomic Mass": "10.81 u", "Group": 13, "Period": 2, "Category": "Metalloid"},
+"Physical Properties": {"Melting Point": "2076°C", "Boiling Point": "3927°C", "Density": "2.34 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "801 kJ/mol", "Atomic Radius": "87 pm", "Electron Configuration": "1s² 2s² 2p¹"},
+"Uses": ["Pyrex glass", "Detergents"],
+"Fun Fact": "Breaks the octet rule!",
+"History": {"Discoverer": "Gay-Lussac & Thénard", "Year": 1808, "Country": "France"}
+},
+"C": {
+"Basic Info": {"Name": "Carbon", "Symbol": "C", "Atomic Number": 6, "Atomic Mass": "12.011 u", "Group": 14, "Period": 2, "Category": "Nonmetal"},
+"Physical Properties": {"Melting Point": "3550°C", "Boiling Point": "4827°C", "Density": "2.267 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "1086 kJ/mol", "Atomic Radius": "70 pm", "Electron Configuration": "1s² 2s² 2p²"},
+"Uses": ["Steel", "Plastics", "Life"],
+"Fun Fact": "Diamond and graphite are both pure carbon!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "—"}
+},
+"N": {
+"Basic Info": {"Name": "Nitrogen", "Symbol": "N", "Atomic Number": 7, "Atomic Mass": "14.007 u", "Group": 15, "Period": 2, "Category": "Nonmetal"},
+"Physical Properties": {"Melting Point": "-210.00°C", "Boiling Point": "-195.80°C", "Density": "1.251 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "1402 kJ/mol", "Atomic Radius": "65 pm", "Electron Configuration": "1s² 2s² 2p³"},
+"Uses": ["Fertilizers", "Coolant"],
+"Fun Fact": "78% of Earth's atmosphere!",
+"History": {"Discoverer": "Daniel Rutherford", "Year": 1772, "Country": "Scotland"}
+},
+"O": {
+"Basic Info": {"Name": "Oxygen", "Symbol": "O", "Atomic Number": 8, "Atomic Mass": "15.999 u", "Group": 16, "Period": 2, "Category": "Nonmetal"},
+"Physical Properties": {"Melting Point": "-218.79°C", "Boiling Point": "-182.96°C", "Density": "1.429 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "1314 kJ/mol", "Atomic Radius": "60 pm", "Electron Configuration": "1s² 2s² 2p⁴"},
+"Uses": ["Breathing", "Steelmaking"],
+"Fun Fact": "Makes up 21% of air!",
+"History": {"Discoverer": "Carl Scheele & Joseph Priestley", "Year": 1774, "Country": "Sweden/England"}
+},
+"F": {
+"Basic Info": {"Name": "Fluorine", "Symbol": "F", "Atomic Number": 9, "Atomic Mass": "18.998 u", "Group": 17, "Period": 2, "Category": "Halogen"},
+"Physical Properties": {"Melting Point": "-219.67°C", "Boiling Point": "-188.11°C", "Density": "1.696 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "1681 kJ/mol", "Atomic Radius": "50 pm", "Electron Configuration": "1s² 2s² 2p⁵"},
+"Uses": ["Toothpaste", "Teflon"],
+"Fun Fact": "Most reactive element!",
+"History": {"Discoverer": "Henri Moissan", "Year": 1886, "Country": "France"}
+},
+"Ne": {
+"Basic Info": {"Name": "Neon", "Symbol": "Ne", "Atomic Number": 10, "Atomic Mass": "20.180 u", "Group": 18, "Period": 2, "Category": "Noble Gas"},
+"Physical Properties": {"Melting Point": "-248.59°C", "Boiling Point": "-246.05°C", "Density": "0.900 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "2081 kJ/mol", "Atomic Radius": "38 pm", "Electron Configuration": "1s² 2s² 2p⁶"},
+"Uses": ["Neon signs", "Cryogenics"],
+"Fun Fact": "Glows red-orange in signs!",
+"History": {"Discoverer": "Ramsay & Travers", "Year": 1898, "Country": "England"}
+},
+"Na": {
+"Basic Info": {"Name": "Sodium", "Symbol": "Na", "Atomic Number": 11, "Atomic Mass": "22.990 u", "Group": 1, "Period": 3, "Category": "Alkali Metal"},
+"Physical Properties": {"Melting Point": "97.79°C", "Boiling Point": "882.94°C", "Density": "0.971 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "496 kJ/mol", "Atomic Radius": "186 pm", "Electron Configuration": "[Ne] 3s¹"},
+"Uses": ["Table salt", "Soap"],
+"Fun Fact": "Explodes on contact with water!",
+"History": {"Discoverer": "Humphry Davy", "Year": 1807, "Country": "England"}
+},
+"Mg": {
+"Basic Info": {"Name": "Magnesium", "Symbol": "Mg", "Atomic Number": 12, "Atomic Mass": "24.305 u", "Group": 2, "Period": 3, "Category": "Alkaline Earth Metal"},
+"Physical Properties": {"Melting Point": "650°C", "Boiling Point": "1090°C", "Density": "1.738 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "738 kJ/mol", "Atomic Radius": "160 pm", "Electron Configuration": "[Ne] 3s²"},
+"Uses": ["Alloys", "Flares"],
+"Fun Fact": "Burns with a bright white flame!",
+"History": {"Discoverer": "Joseph Black", "Year": 1755, "Country": "Scotland"}
+},
+"Al": {
+"Basic Info": {"Name": "Aluminium", "Symbol": "Al", "Atomic Number": 13, "Atomic Mass": "26.982 u", "Group": 13, "Period": 3, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "660.32°C", "Boiling Point": "2519°C", "Density": "2.70 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "578 kJ/mol", "Atomic Radius": "143 pm", "Electron Configuration": "[Ne] 3s² 3p¹"},
+"Uses": ["Cans", "Aircraft"],
+"Fun Fact": "Most abundant metal in Earth's crust!",
+"History": {"Discoverer": "Hans Ørsted", "Year": 1825, "Country": "Denmark"}
+},
+"Si": {
+"Basic Info": {"Name": "Silicon", "Symbol": "Si", "Atomic Number": 14, "Atomic Mass": "28.085 u", "Group": 14, "Period": 3, "Category": "Metalloid"},
+"Physical Properties": {"Melting Point": "1414°C", "Boiling Point": "3265°C", "Density": "2.33 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "787 kJ/mol", "Atomic Radius": "111 pm", "Electron Configuration": "[Ne] 3s² 3p²"},
+"Uses": ["Computer chips", "Glass"],
+"Fun Fact": "Heart of all electronics!",
+"History": {"Discoverer": "Jöns Berzelius", "Year": 1824, "Country": "Sweden"}
+},
+"P": {
+"Basic Info": {"Name": "Phosphorus", "Symbol": "P", "Atomic Number": 15, "Atomic Mass": "30.974 u", "Group": 15, "Period": 3, "Category": "Nonmetal"},
+"Physical Properties": {"Melting Point": "44.15°C (white)", "Boiling Point": "280.5°C", "Density": "1.823 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "1012 kJ/mol", "Atomic Radius": "98 pm", "Electron Configuration": "[Ne] 3s² 3p³"},
+"Uses": ["Fertilizers", "Matches"],
+"Fun Fact": "Glows in the dark (white form)!",
+"History": {"Discoverer": "Hennig Brand", "Year": 1669, "Country": "Germany"}
+},
+"S": {
+"Basic Info": {"Name": "Sulfur", "Symbol": "S", "Atomic Number": 16, "Atomic Mass": "32.06 u", "Group": 16, "Period": 3, "Category": "Nonmetal"},
+"Physical Properties": {"Melting Point": "115.21°C", "Boiling Point": "444.61°C", "Density": "2.067 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "1000 kJ/mol", "Atomic Radius": "88 pm", "Electron Configuration": "[Ne] 3s² 3p⁴"},
+"Uses": ["Sulfuric acid", "Fertilizers"],
+"Fun Fact": "Smells like rotten eggs!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "—"}
+},
+"Cl": {
+"Basic Info": {"Name": "Chlorine", "Symbol": "Cl", "Atomic Number": 17, "Atomic Mass": "35.45 u", "Group": 17, "Period": 3, "Category": "Halogen"},
+"Physical Properties": {"Melting Point": "-101.5°C", "Boiling Point": "-34.04°C", "Density": "3.214 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "1251 kJ/mol", "Atomic Radius": "79 pm", "Electron Configuration": "[Ne] 3s² 3p⁵"},
+"Uses": ["Disinfectant", "PVC"],
+"Fun Fact": "Used in WWI as a weapon!",
+"History": {"Discoverer": "Carl Scheele", "Year": 1774, "Country": "Sweden"}
+},
+"Ar": {
+"Basic Info": {"Name": "Argon", "Symbol": "Ar", "Atomic Number": 18, "Atomic Mass": "39.948 u", "Group": 18, "Period": 3, "Category": "Noble Gas"},
+"Physical Properties": {"Melting Point": "-189.34°C", "Boiling Point": "-185.85°C", "Density": "1.784 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "1521 kJ/mol", "Atomic Radius": "71 pm", "Electron Configuration": "[Ne] 3s² 3p⁶"},
+"Uses": ["Welding", "Light bulbs"],
+"Fun Fact": "Most abundant noble gas!",
+"History": {"Discoverer": "Ramsay & Rayleigh", "Year": 1894, "Country": "England"}
+},
+"K": {
+"Basic Info": {"Name": "Potassium", "Symbol": "K", "Atomic Number": 19, "Atomic Mass": "39.098 u", "Group": 1, "Period": 4, "Category": "Alkali Metal"},
+"Physical Properties": {"Melting Point": "63.38°C", "Boiling Point": "759°C", "Density": "0.862 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "419 kJ/mol", "Atomic Radius": "227 pm", "Electron Configuration": "[Ar] 4s¹"},
+"Uses": ["Fertilizers", "Bananas"],
+"Fun Fact": "Essential for nerve function!",
+"History": {"Discoverer": "Humphry Davy", "Year": 1807, "Country": "England"}
+},
+"Ca": {
+"Basic Info": {"Name": "Calcium", "Symbol": "Ca", "Atomic Number": 20, "Atomic Mass": "40.078 u", "Group": 2, "Period": 4, "Category": "Alkaline Earth Metal"},
+"Physical Properties": {"Melting Point": "842°C", "Boiling Point": "1484°C", "Density": "1.54 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "590 kJ/mol", "Atomic Radius": "197 pm", "Electron Configuration": "[Ar] 4s²"},
+"Uses": ["Bones", "Cement"],
+"Fun Fact": "Makes up 2% of your body weight!",
+"History": {"Discoverer": "Humphry Davy", "Year": 1808, "Country": "England"}
+},
+"Sc": {
+"Basic Info": {"Name": "Scandium", "Symbol": "Sc", "Atomic Number": 21, "Atomic Mass": "44.956 u", "Group": 3, "Period": 4, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1541°C", "Boiling Point": "2836°C", "Density": "2.985 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "633 kJ/mol", "Atomic Radius": "162 pm", "Electron Configuration": "[Ar] 3d¹ 4s²"},
+"Uses": ["Aerospace alloys", "Bicycle frames"],
+"Fun Fact": "As strong as titanium but much lighter!",
+"History": {"Discoverer": "Lars Nilson", "Year": 1879, "Country": "Sweden"}
+},
+"Ti": {
+"Basic Info": {"Name": "Titanium", "Symbol": "Ti", "Atomic Number": 22, "Atomic Mass": "47.867 u", "Group": 4, "Period": 4, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1668°C", "Boiling Point": "3287°C", "Density": "4.506 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "659 kJ/mol", "Atomic Radius": "147 pm", "Electron Configuration": "[Ar] 3d² 4s²"},
+"Uses": ["Aircraft", "Medical implants"],
+"Fun Fact": "As strong as steel but 45% lighter!",
+"History": {"Discoverer": "William Gregor", "Year": 1791, "Country": "England"}
+},
+"V": {
+"Basic Info": {"Name": "Vanadium", "Symbol": "V", "Atomic Number": 23, "Atomic Mass": "50.942 u", "Group": 5, "Period": 4, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1910°C", "Boiling Point": "3407°C", "Density": "6.11 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "651 kJ/mol", "Atomic Radius": "134 pm", "Electron Configuration": "[Ar] 3d³ 4s²"},
+"Uses": ["Steel alloys", "Tools"],
+"Fun Fact": "Named after the Norse goddess Vanadis!",
+"History": {"Discoverer": "Andrés del Río", "Year": 1801, "Country": "Mexico"}
+},
+"Cr": {
+"Basic Info": {"Name": "Chromium", "Symbol": "Cr", "Atomic Number": 24, "Atomic Mass": "51.996 u", "Group": 6, "Period": 4, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1907°C", "Boiling Point": "2671°C", "Density": "7.15 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "653 kJ/mol", "Atomic Radius": "128 pm", "Electron Configuration": "[Ar] 3d⁵ 4s¹"},
+"Uses": ["Stainless steel", "Chrome plating"],
+"Fun Fact": "Makes rubies red and emeralds green!",
+"History": {"Discoverer": "Louis Vauquelin", "Year": 1797, "Country": "France"}
+},
+"Mn": {
+"Basic Info": {"Name": "Manganese", "Symbol": "Mn", "Atomic Number": 25, "Atomic Mass": "54.938 u", "Group": 7, "Period": 4, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1246°C", "Boiling Point": "2061°C", "Density": "7.21 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "717 kJ/mol", "Atomic Radius": "127 pm", "Electron Configuration": "[Ar] 3d⁵ 4s²"},
+"Uses": ["Steel", "Batteries"],
+"Fun Fact": "Essential for photosynthesis!",
+"History": {"Discoverer": "Johan Gahn", "Year": 1774, "Country": "Sweden"}
+},
+"Fe": {
+"Basic Info": {"Name": "Iron", "Symbol": "Fe", "Atomic Number": 26, "Atomic Mass": "55.845 u", "Group": 8, "Period": 4, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1538°C", "Boiling Point": "2861°C", "Density": "7.874 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "762 kJ/mol", "Atomic Radius": "126 pm", "Electron Configuration": "[Ar] 3d⁶ 4s²"},
+"Uses": ["Steel", "Hemoglobin"],
+"Fun Fact": "Earth's core is mostly iron!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "—"}
+},
+"Co": {
+"Basic Info": {"Name": "Cobalt", "Symbol": "Co", "Atomic Number": 27, "Atomic Mass": "58.933 u", "Group": 9, "Period": 4, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1495°C", "Boiling Point": "2927°C", "Density": "8.90 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "760 kJ/mol", "Atomic Radius": "125 pm", "Electron Configuration": "[Ar] 3d⁷ 4s²"},
+"Uses": ["Batteries", "Magnets"],
+"Fun Fact": "Used in vitamin B12!",
+"History": {"Discoverer": "Georg Brandt", "Year": 1735, "Country": "Sweden"}
+},
+"Ni": {
+"Basic Info": {"Name": "Nickel", "Symbol": "Ni", "Atomic Number": 28, "Atomic Mass": "58.693 u", "Group": 10, "Period": 4, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1455°C", "Boiling Point": "2730°C", "Density": "8.908 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "737 kJ/mol", "Atomic Radius": "124 pm", "Electron Configuration": "[Ar] 3d⁸ 4s²"},
+"Uses": ["Coins", "Batteries"],
+"Fun Fact": "5-cent coin is mostly nickel!",
+"History": {"Discoverer": "Axel Cronstedt", "Year": 1751, "Country": "Sweden"}
+},
+"Cu": {
+"Basic Info": {"Name": "Copper", "Symbol": "Cu", "Atomic Number": 29, "Atomic Mass": "63.546 u", "Group": 11, "Period": 4, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1084.62°C", "Boiling Point": "2562°C", "Density": "8.96 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "745 kJ/mol", "Atomic Radius": "128 pm", "Electron Configuration": "[Ar] 3d¹⁰ 4s¹"},
+"Uses": ["Wiring", "Plumbing"],
+"Fun Fact": "Statue of Liberty is made of copper!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "—"}
+},
+"Zn": {
+"Basic Info": {"Name": "Zinc", "Symbol": "Zn", "Atomic Number": 30, "Atomic Mass": "65.38 u", "Group": 12, "Period": 4, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "419.53°C", "Boiling Point": "907°C", "Density": "7.134 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "906 kJ/mol", "Atomic Radius": "134 pm", "Electron Configuration": "[Ar] 3d¹⁰ 4s²"},
+"Uses": ["Galvanizing", "Sunscreen"],
+"Fun Fact": "Essential for immune system!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "India"}
+},
+"Ga": {
+"Basic Info": {"Name": "Gallium", "Symbol": "Ga", "Atomic Number": 31, "Atomic Mass": "69.723 u", "Group": 13, "Period": 4, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "29.76°C", "Boiling Point": "2400°C", "Density": "5.91 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "579 kJ/mol", "Atomic Radius": "135 pm", "Electron Configuration": "[Ar] 3d¹⁰ 4s² 4p¹"},
+"Uses": ["Semiconductors", "Thermometers"],
+"Fun Fact": "Melts in your hand!",
+"History": {"Discoverer": "Lecoq de Boisbaudran", "Year": 1875, "Country": "France"}
+},
+"Ge": {
+"Basic Info": {"Name": "Germanium", "Symbol": "Ge", "Atomic Number": 32, "Atomic Mass": "72.630 u", "Group": 14, "Period": 4, "Category": "Metalloid"},
+"Physical Properties": {"Melting Point": "938.25°C", "Boiling Point": "2833°C", "Density": "5.323 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "762 kJ/mol", "Atomic Radius": "122 pm", "Electron Configuration": "[Ar] 3d¹⁰ 4s² 4p²"},
+"Uses": ["Fiber optics", "Transistors"],
+"Fun Fact": "Predicted by Mendeleev before discovery!",
+"History": {"Discoverer": "Clemens Winkler", "Year": 1886, "Country": "Germany"}
+},
+"As": {
+"Basic Info": {"Name": "Arsenic", "Symbol": "As", "Atomic Number": 33, "Atomic Mass": "74.922 u", "Group": 15, "Period": 4, "Category": "Metalloid"},
+"Physical Properties": {"Melting Point": "817°C (sublimes)", "Boiling Point": "614°C", "Density": "5.727 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "947 kJ/mol", "Atomic Radius": "119 pm", "Electron Configuration": "[Ar] 3d¹⁰ 4s² 4p³"},
+"Uses": ["Semiconductors", "Poison"],
+"Fun Fact": "Famous poison in history!",
+"History": {"Discoverer": "Albertus Magnus", "Year": 1250, "Country": "Germany"}
+},
+"Se": {
+"Basic Info": {"Name": "Selenium", "Symbol": "Se", "Atomic Number": 34, "Atomic Mass": "78.971 u", "Group": 16, "Period": 4, "Category": "Nonmetal"},
+"Physical Properties": {"Melting Point": "221°C", "Boiling Point": "685°C", "Density": "4.819 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "941 kJ/mol", "Atomic Radius": "116 pm", "Electron Configuration": "[Ar] 3d¹⁰ 4s² 4p⁴"},
+"Uses": ["Solar cells", "Dandruff shampoo"],
+"Fun Fact": "Conducts electricity in light!",
+"History": {"Discoverer": "Jöns Berzelius", "Year": 1817, "Country": "Sweden"}
+},
+"Br": {
+"Basic Info": {"Name": "Bromine", "Symbol": "Br", "Atomic Number": 35, "Atomic Mass": "79.904 u", "Group": 17, "Period": 4, "Category": "Halogen"},
+"Physical Properties": {"Melting Point": "-7.2°C", "Boiling Point": "58.8°C", "Density": "3.1028 g/cm³", "State at 25°C": "Liquid"},
+"Atomic Properties": {"Ionization Energy": "1140 kJ/mol", "Atomic Radius": "114 pm", "Electron Configuration": "[Ar] 3d¹⁰ 4s² 4p⁵"},
+"Uses": ["Flame retardants", "Photography"],
+"Fun Fact": "Only non-metal liquid at room temp!",
+"History": {"Discoverer": "Antoine Balard", "Year": 1826, "Country": "France"}
+},
+"Kr": {
+"Basic Info": {"Name": "Krypton", "Symbol": "Kr", "Atomic Number": 36, "Atomic Mass": "83.798 u", "Group": 18, "Period": 4, "Category": "Noble Gas"},
+"Physical Properties": {"Melting Point": "-157.37°C", "Boiling Point": "-153.42°C", "Density": "3.749 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "1351 kJ/mol", "Atomic Radius": "110 pm", "Electron Configuration": "[Ar] 3d¹⁰ 4s² 4p⁶"},
+"Uses": ["Flashlights", "Lasers"],
+"Fun Fact": "Not just Superman's planet!",
+"History": {"Discoverer": "Ramsay & Travers", "Year": 1898, "Country": "England"}
+},
+"Rb": {
+"Basic Info": {"Name": "Rubidium", "Symbol": "Rb", "Atomic Number": 37, "Atomic Mass": "85.468 u", "Group": 1, "Period": 5, "Category": "Alkali Metal"},
+"Physical Properties": {"Melting Point": "39.31°C", "Boiling Point": "688°C", "Density": "1.532 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "403 kJ/mol", "Atomic Radius": "248 pm", "Electron Configuration": "[Kr] 5s¹"},
+"Uses": ["Atomic clocks", "Fireworks"],
+"Fun Fact": "Ignites spontaneously in air!",
+"History": {"Discoverer": "Bunsen & Kirchhoff", "Year": 1861, "Country": "Germany"}
+},
+"Sr": {
+"Basic Info": {"Name": "Strontium", "Symbol": "Sr", "Atomic Number": 38, "Atomic Mass": "87.62 u", "Group": 2, "Period": 5, "Category": "Alkaline Earth Metal"},
+"Physical Properties": {"Melting Point": "777°C", "Boiling Point": "1382°C", "Density": "2.64 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "550 kJ/mol", "Atomic Radius": "215 pm", "Electron Configuration": "[Kr] 5s²"},
+"Uses": ["Fireworks (red)", "Toothpaste"],
+"Fun Fact": "Gives red color to fireworks!",
+"History": {"Discoverer": "Adair Crawford", "Year": 1790, "Country": "Ireland"}
+},
+"Y": {
+"Basic Info": {"Name": "Yttrium", "Symbol": "Y", "Atomic Number": 39, "Atomic Mass": "88.906 u", "Group": 3, "Period": 5, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1522°C", "Boiling Point": "3345°C", "Density": "4.472 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "600 kJ/mol", "Atomic Radius": "180 pm", "Electron Configuration": "[Kr] 4d¹ 5s²"},
+"Uses": ["LEDs", "Lasers"],
+"Fun Fact": "Used in fake diamonds!",
+"History": {"Discoverer": "Johan Gadolin", "Year": 1794, "Country": "Finland"}
+},
+"Zr": {
+"Basic Info": {"Name": "Zirconium", "Symbol": "Zr", "Atomic Number": 40, "Atomic Mass": "91.224 u", "Group": 4, "Period": 5, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1855°C", "Boiling Point": "4409°C", "Density": "6.52 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "640 kJ/mol", "Atomic Radius": "160 pm", "Electron Configuration": "[Kr] 4d² 5s²"},
+"Uses": ["Nuclear reactors", "Jewelry"],
+"Fun Fact": "Transparent to neutrons!",
+"History": {"Discoverer": "Martin Klaproth", "Year": 1789, "Country": "Germany"}
+},
+"Nb": {
+"Basic Info": {"Name": "Niobium", "Symbol": "Nb", "Atomic Number": 41, "Atomic Mass": "92.906 u", "Group": 5, "Period": 5, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "2477°C", "Boiling Point": "4744°C", "Density": "8.57 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "652 kJ/mol", "Atomic Radius": "146 pm", "Electron Configuration": "[Kr] 4d⁴ 5s¹"},
+"Uses": ["Superconductors", "Jet engines"],
+"Fun Fact": "Named after Niobe (Greek mythology)!",
+"History": {"Discoverer": "Charles Hatchett", "Year": 1801, "Country": "England"}
+},
+"Mo": {
+"Basic Info": {"Name": "Molybdenum", "Symbol": "Mo", "Atomic Number": 42, "Atomic Mass": "95.95 u", "Group": 6, "Period": 5, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "2623°C", "Boiling Point": "4639°C", "Density": "10.28 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "684 kJ/mol", "Atomic Radius": "139 pm", "Electron Configuration": "[Kr] 4d⁵ 5s¹"},
+"Uses": ["Steel alloys", "Lubricants"],
+"Fun Fact": "Essential for plants!",
+"History": {"Discoverer": "Carl Scheele", "Year": 1778, "Country": "Sweden"}
+},
+"Tc": {
+"Basic Info": {"Name": "Technetium", "Symbol": "Tc", "Atomic Number": 43, "Atomic Mass": "[98] u", "Group": 7, "Period": 5, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "2157°C", "Boiling Point": "4265°C", "Density": "11.5 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "702 kJ/mol", "Atomic Radius": "136 pm", "Electron Configuration": "[Kr] 4d⁵ 5s²"},
+"Uses": ["Medical imaging", "Corrosion protection"],
+"Fun Fact": "First artificially made element!",
+"History": {"Discoverer": "Segrè & Perrier", "Year": 1937, "Country": "Italy"}
+},
+"Ru": {
+"Basic Info": {"Name": "Ruthenium", "Symbol": "Ru", "Atomic Number": 44, "Atomic Mass": "101.07 u", "Group": 8, "Period": 5, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "2334°C", "Boiling Point": "4150°C", "Density": "12.45 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "710 kJ/mol", "Atomic Radius": "134 pm", "Electron Configuration": "[Kr] 4d⁷ 5s¹"},
+"Uses": ["Electronics", "Catalysts"],
+"Fun Fact": "Named after Russia!",
+"History": {"Discoverer": "Karl Klaus", "Year": 1844, "Country": "Russia"}
+},
+"Rh": {
+"Basic Info": {"Name": "Rhodium", "Symbol": "Rh", "Atomic Number": 45, "Atomic Mass": "102.91 u", "Group": 9, "Period": 5, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1964°C", "Boiling Point": "3695°C", "Density": "12.41 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "720 kJ/mol", "Atomic Radius": "134 pm", "Electron Configuration": "[Kr] 4d⁸ 5s¹"},
+"Uses": ["Catalytic converters", "Jewelry plating"],
+"Fun Fact": "Most expensive precious metal!",
+"History": {"Discoverer": "William Wollaston", "Year": 1803, "Country": "England"}
+},
+"Pd": {
+"Basic Info": {"Name": "Palladium", "Symbol": "Pd", "Atomic Number": 46, "Atomic Mass": "106.42 u", "Group": 10, "Period": 5, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1554.9°C", "Boiling Point": "2963°C", "Density": "12.02 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "804 kJ/mol", "Atomic Radius": "137 pm", "Electron Configuration": "[Kr] 4d¹⁰"},
+"Uses": ["Catalytic converters", "Hydrogen storage"],
+"Fun Fact": "Can absorb 900x its volume in hydrogen!",
+"History": {"Discoverer": "William Wollaston", "Year": 1803, "Country": "England"}
+},
+"Ag": {
+"Basic Info": {"Name": "Silver", "Symbol": "Ag", "Atomic Number": 47, "Atomic Mass": "107.87 u", "Group": 11, "Period": 5, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "961.78°C", "Boiling Point": "2162°C", "Density": "10.50 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "731 kJ/mol", "Atomic Radius": "144 pm", "Electron Configuration": "[Kr] 4d¹⁰ 5s¹"},
+"Uses": ["Jewelry", "Electronics"],
+"Fun Fact": "Best electrical conductor of all elements!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "—"}
+},
+"Cd": {
+"Basic Info": {"Name": "Cadmium", "Symbol": "Cd", "Atomic Number": 48, "Atomic Mass": "112.41 u", "Group": 12, "Period": 5, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "321.07°C", "Boiling Point": "767°C", "Density": "8.65 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "868 kJ/mol", "Atomic Radius": "151 pm", "Electron Configuration": "[Kr] 4d¹⁰ 5s²"},
+"Uses": ["Batteries", "Pigments"],
+"Fun Fact": "Toxic but used in rechargeable batteries!",
+"History": {"Discoverer": "Friedrich Stromeyer", "Year": 1817, "Country": "Germany"}
+},
+"In": {
+"Basic Info": {"Name": "Indium", "Symbol": "In", "Atomic Number": 49, "Atomic Mass": "114.82 u", "Group": 13, "Period": 5, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "156.60°C", "Boiling Point": "2072°C", "Density": "7.31 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "558 kJ/mol", "Atomic Radius": "167 pm", "Electron Configuration": "[Kr] 4d¹⁰ 5s² 5p¹"},
+"Uses": ["Touch screens", "Solders"],
+"Fun Fact": "Makes a 'cry' sound when bent!",
+"History": {"Discoverer": "Reich & Richter", "Year": 1863, "Country": "Germany"}
+},
+"Sn": {
+"Basic Info": {"Name": "Tin", "Symbol": "Sn", "Atomic Number": 50, "Atomic Mass": "118.71 u", "Group": 14, "Period": 5, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "231.93°C", "Boiling Point": "2602°C", "Density": "7.287 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "709 kJ/mol", "Atomic Radius": "140 pm", "Electron Configuration": "[Kr] 4d¹⁰ 5s² 5p²"},
+"Uses": ["Cans", "Solder"],
+"Fun Fact": "Used since the Bronze Age!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "—"}
+},
+"Sb": {
+"Basic Info": {"Name": "Antimony", "Symbol": "Sb", "Atomic Number": 51, "Atomic Mass": "121.76 u", "Group": 15, "Period": 5, "Category": "Metalloid"},
+"Physical Properties": {"Melting Point": "630.63°C", "Boiling Point": "1587°C", "Density": "6.697 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "834 kJ/mol", "Atomic Radius": "140 pm", "Electron Configuration": "[Kr] 4d¹⁰ 5s² 5p³"},
+"Uses": ["Flame retardants", "Cosmetics"],
+"Fun Fact": "Used as eyeliner in ancient Egypt!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "—"}
+},
+"Te": {
+"Basic Info": {"Name": "Tellurium", "Symbol": "Te", "Atomic Number": 52, "Atomic Mass": "127.60 u", "Group": 16, "Period": 5, "Category": "Metalloid"},
+"Physical Properties": {"Melting Point": "449.51°C", "Boiling Point": "988°C", "Density": "6.24 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "869 kJ/mol", "Atomic Radius": "140 pm", "Electron Configuration": "[Kr] 4d¹⁰ 5s² 5p⁴"},
+"Uses": ["Solar panels", "Alloys"],
+"Fun Fact": "Gives garlic breath if you touch it!",
+"History": {"Discoverer": "Müller von Reichenstein", "Year": 1782, "Country": "Austria"}
+},
+"I": {
+"Basic Info": {"Name": "Iodine", "Symbol": "I", "Atomic Number": 53, "Atomic Mass": "126.90 u", "Group": 17, "Period": 5, "Category": "Halogen"},
+"Physical Properties": {"Melting Point": "113.7°C", "Boiling Point": "184.3°C", "Density": "4.933 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "1008 kJ/mol", "Atomic Radius": "140 pm", "Electron Configuration": "[Kr] 4d¹⁰ 5s² 5p⁵"},
+"Uses": ["Disinfectant", "Thyroid health"],
+"Fun Fact": "Sublimes directly from solid to purple gas!",
+"History": {"Discoverer": "Bernard Courtois", "Year": 1811, "Country": "France"}
+},
+"Xe": {
+"Basic Info": {"Name": "Xenon", "Symbol": "Xe", "Atomic Number": 54, "Atomic Mass": "131.29 u", "Group": 18, "Period": 5, "Category": "Noble Gas"},
+"Physical Properties": {"Melting Point": "-111.75°C", "Boiling Point": "-108.10°C", "Density": "5.894 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "1170 kJ/mol", "Atomic Radius": "131 pm", "Electron Configuration": "[Kr] 4d¹⁰ 5s² 5p⁶"},
+"Uses": ["Ion thrusters", "Anesthesia"],
+"Fun Fact": "First noble gas to form compounds!",
+"History": {"Discoverer": "Ramsay & Travers", "Year": 1898, "Country": "England"}
+},
+"Cs": {
+"Basic Info": {"Name": "Cesium", "Symbol": "Cs", "Atomic Number": 55, "Atomic Mass": "132.91 u", "Group": 1, "Period": 6, "Category": "Alkali Metal"},
+"Physical Properties": {"Melting Point": "28.44°C", "Boiling Point": "671°C", "Density": "1.873 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "376 kJ/mol", "Atomic Radius": "265 pm", "Electron Configuration": "[Xe] 6s¹"},
+"Uses": ["Atomic clocks", "Drilling fluids"],
+"Fun Fact": "Most reactive alkali metal!",
+"History": {"Discoverer": "Bunsen & Kirchhoff", "Year": 1860, "Country": "Germany"}
+},
+"Ba": {
+"Basic Info": {"Name": "Barium", "Symbol": "Ba", "Atomic Number": 56, "Atomic Mass": "137.33 u", "Group": 2, "Period": 6, "Category": "Alkaline Earth Metal"},
+"Physical Properties": {"Melting Point": "727°C", "Boiling Point": "1897°C", "Density": "3.62 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "503 kJ/mol", "Atomic Radius": "222 pm", "Electron Configuration": "[Xe] 6s²"},
+"Uses": ["Fireworks (green)", "X-ray imaging"],
+"Fun Fact": "Gives green color to fireworks!",
+"History": {"Discoverer": "Humphry Davy", "Year": 1808, "Country": "England"}
+},
+"La": {
+"Basic Info": {"Name": "Lanthanum", "Symbol": "La", "Atomic Number": 57, "Atomic Mass": "138.91 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "920°C", "Boiling Point": "3464°C", "Density": "6.162 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "538 kJ/mol", "Atomic Radius": "187 pm", "Electron Configuration": "[Xe] 5d¹ 6s²"},
+"Uses": ["Camera lenses", "Batteries"],
+"Fun Fact": "First of the lanthanide series!",
+"History": {"Discoverer": "Carl Mosander", "Year": 1839, "Country": "Sweden"}
+},
+"Ce": {
+"Basic Info": {"Name": "Cerium", "Symbol": "Ce", "Atomic Number": 58, "Atomic Mass": "140.12 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "795°C", "Boiling Point": "3443°C", "Density": "6.770 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "534 kJ/mol", "Atomic Radius": "182 pm", "Electron Configuration": "[Xe] 4f¹ 5d¹ 6s²"},
+"Uses": ["Catalytic converters", "Lighter flints"],
+"Fun Fact": "Sparks when struck!",
+"History": {"Discoverer": "Berzelius & Hisinger", "Year": 1803, "Country": "Sweden"}
+},
+"Pr": {
+"Basic Info": {"Name": "Praseodymium", "Symbol": "Pr", "Atomic Number": 59, "Atomic Mass": "140.91 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "935°C", "Boiling Point": "3520°C", "Density": "6.773 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "527 kJ/mol", "Atomic Radius": "182 pm", "Electron Configuration": "[Xe] 4f³ 6s²"},
+"Uses": ["Magnets", "Yellow glass"],
+"Fun Fact": "Used in aircraft engines!",
+"History": {"Discoverer": "Carl Auer von Welsbach", "Year": 1885, "Country": "Austria"}
+},
+"Nd": {
+"Basic Info": {"Name": "Neodymium", "Symbol": "Nd", "Atomic Number": 60, "Atomic Mass": "144.24 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "1024°C", "Boiling Point": "3074°C", "Density": "7.007 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "533 kJ/mol", "Atomic Radius": "181 pm", "Electron Configuration": "[Xe] 4f⁴ 6s²"},
+"Uses": ["Super strong magnets", "Lasers"],
+"Fun Fact": "World's strongest permanent magnets!",
+"History": {"Discoverer": "Carl Auer von Welsbach", "Year": 1885, "Country": "Austria"}
+},
+"Pm": {
+"Basic Info": {"Name": "Promethium", "Symbol": "Pm", "Atomic Number": 61, "Atomic Mass": "[145] u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "1042°C", "Boiling Point": "3000°C", "Density": "7.26 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "540 kJ/mol", "Atomic Radius": "183 pm", "Electron Configuration": "[Xe] 4f⁵ 6s²"},
+"Uses": ["Atomic batteries", "Luminous paint"],
+"Fun Fact": "Named after Prometheus (Greek myth)!",
+"History": {"Discoverer": "Marinsky et al.", "Year": 1945, "Country": "USA"}
+},
+"Sm": {
+"Basic Info": {"Name": "Samarium", "Symbol": "Sm", "Atomic Number": 62, "Atomic Mass": "150.36 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "1072°C", "Boiling Point": "1794°C", "Density": "7.52 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "545 kJ/mol", "Atomic Radius": "180 pm", "Electron Configuration": "[Xe] 4f⁶ 6s²"},
+"Uses": ["Magnets", "Cancer treatment"],
+"Fun Fact": "First element named after a person!",
+"History": {"Discoverer": "Lecoq de Boisbaudran", "Year": 1879, "Country": "France"}
+},
+"Eu": {
+"Basic Info": {"Name": "Europium", "Symbol": "Eu", "Atomic Number": 63, "Atomic Mass": "151.96 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "822°C", "Boiling Point": "1529°C", "Density": "5.244 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "547 kJ/mol", "Atomic Radius": "180 pm", "Electron Configuration": "[Xe] 4f⁷ 6s²"},
+"Uses": ["Euro banknotes", "TV screens"],
+"Fun Fact": "Makes euros glow under UV light!",
+"History": {"Discoverer": "Eugène Demarçay", "Year": 1901, "Country": "France"}
+},
+"Gd": {
+"Basic Info": {"Name": "Gadolinium", "Symbol": "Gd", "Atomic Number": 64, "Atomic Mass": "157.25 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "1313°C", "Boiling Point": "3273°C", "Density": "7.90 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "593 kJ/mol", "Atomic Radius": "180 pm", "Electron Configuration": "[Xe] 4f⁷ 5d¹ 6s²"},
+"Uses": ["MRI contrast", "Nuclear reactors"],
+"Fun Fact": "Highly magnetic when cooled!",
+"History": {"Discoverer": "Jean de Marignac", "Year": 1880, "Country": "Switzerland"}
+},
+"Tb": {
+"Basic Info": {"Name": "Terbium", "Symbol": "Tb", "Atomic Number": 65, "Atomic Mass": "158.93 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "1356°C", "Boiling Point": "3230°C", "Density": "8.23 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "565 kJ/mol", "Atomic Radius": "177 pm", "Electron Configuration": "[Xe] 4f⁹ 6s²"},
+"Uses": ["Green phosphors", "Fuel cells"],
+"Fun Fact": "Used in smartphone screens!",
+"History": {"Discoverer": "Carl Mosander", "Year": 1843, "Country": "Sweden"}
+},
+"Dy": {
+"Basic Info": {"Name": "Dysprosium", "Symbol": "Dy", "Atomic Number": 66, "Atomic Mass": "162.50 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "1412°C", "Boiling Point": "2567°C", "Density": "8.55 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "573 kJ/mol", "Atomic Radius": "178 pm", "Electron Configuration": "[Xe] 4f¹⁰ 6s²"},
+"Uses": ["Wind turbines", "EV motors"],
+"Fun Fact": "Makes magnets work at high temps!",
+"History": {"Discoverer": "Lecoq de Boisbaudran", "Year": 1886, "Country": "France"}
+},
+"Ho": {
+"Basic Info": {"Name": "Holmium", "Symbol": "Ho", "Atomic Number": 67, "Atomic Mass": "164.93 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "1474°C", "Boiling Point": "2700°C", "Density": "8.79 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "581 kJ/mol", "Atomic Radius": "176 pm", "Electron Configuration": "[Xe] 4f¹¹ 6s²"},
+"Uses": ["Lasers", "Nuclear control rods"],
+"Fun Fact": "Most magnetic of all elements!",
+"History": {"Discoverer": "Cleve & Soret", "Year": 1878, "Country": "Sweden"}
+},
+"Er": {
+"Basic Info": {"Name": "Erbium", "Symbol": "Er", "Atomic Number": 68, "Atomic Mass": "167.26 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "1529°C", "Boiling Point": "2868°C", "Density": "9.07 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "589 kJ/mol", "Atomic Radius": "176 pm", "Electron Configuration": "[Xe] 4f¹² 6s²"},
+"Uses": ["Fiber optics", "Lasers"],
+"Fun Fact": "Amplifies internet signals!",
+"History": {"Discoverer": "Carl Mosander", "Year": 1843, "Country": "Sweden"}
+},
+"Tm": {
+"Basic Info": {"Name": "Thulium", "Symbol": "Tm", "Atomic Number": 69, "Atomic Mass": "168.93 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "1545°C", "Boiling Point": "1950°C", "Density": "9.32 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "597 kJ/mol", "Atomic Radius": "176 pm", "Electron Configuration": "[Xe] 4f¹³ 6s²"},
+"Uses": ["Portable X-rays", "Lasers"],
+"Fun Fact": "Rarest of the rare earths!",
+"History": {"Discoverer": "Per Teodor Cleve", "Year": 1879, "Country": "Sweden"}
+},
+"Yb": {
+"Basic Info": {"Name": "Ytterbium", "Symbol": "Yb", "Atomic Number": 70, "Atomic Mass": "173.05 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "819°C", "Boiling Point": "1196°C", "Density": "6.97 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "603 kJ/mol", "Atomic Radius": "176 pm", "Electron Configuration": "[Xe] 4f¹⁴ 6s²"},
+"Uses": ["Atomic clocks", "Alloys"],
+"Fun Fact": "Named after Ytterby (Swedish village)!",
+"History": {"Discoverer": "Jean de Marignac", "Year": 1878, "Country": "Switzerland"}
+},
+"Lu": {
+"Basic Info": {"Name": "Lutetium", "Symbol": "Lu", "Atomic Number": 71, "Atomic Mass": "174.97 u", "Group": 3, "Period": 6, "Category": "Lanthanide"},
+"Physical Properties": {"Melting Point": "1663°C", "Boiling Point": "3402°C", "Density": "9.84 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "524 kJ/mol", "Atomic Radius": "174 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d¹ 6s²"},
+"Uses": ["PET scanners", "Catalysts"],
+"Fun Fact": "Last of the lanthanides!",
+"History": {"Discoverer": "Urbain & Welsbach", "Year": 1907, "Country": "France"}
+},
+"Hf": {
+"Basic Info": {"Name": "Hafnium", "Symbol": "Hf", "Atomic Number": 72, "Atomic Mass": "178.49 u", "Group": 4, "Period": 6, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "2233°C", "Boiling Point": "4603°C", "Density": "13.31 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "659 kJ/mol", "Atomic Radius": "159 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d² 6s²"},
+"Uses": ["Nuclear control rods", "Microchips"],
+"Fun Fact": "Named after Copenhagen!",
+"History": {"Discoverer": "Coster & von Hevesy", "Year": 1923, "Country": "Denmark"}
+},
+"Ta": {
+"Basic Info": {"Name": "Tantalum", "Symbol": "Ta", "Atomic Number": 73, "Atomic Mass": "180.95 u", "Group": 5, "Period": 6, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "3017°C", "Boiling Point": "5458°C", "Density": "16.69 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "761 kJ/mol", "Atomic Radius": "146 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d³ 6s²"},
+"Uses": ["Capacitors (phones)", "Medical implants"],
+"Fun Fact": "Completely immune to body chemistry!",
+"History": {"Discoverer": "Anders Ekeberg", "Year": 1802, "Country": "Sweden"}
+},
+"W": {
+"Basic Info": {"Name": "Tungsten", "Symbol": "W", "Atomic Number": 74, "Atomic Mass": "183.84 u", "Group": 6, "Period": 6, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "3422°C", "Boiling Point": "5555°C", "Density": "19.25 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "770 kJ/mol", "Atomic Radius": "139 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d⁴ 6s²"},
+"Uses": ["Light bulb filaments", "Drill bits"],
+"Fun Fact": "Highest melting point of all metals!",
+"History": {"Discoverer": "Fausto & Juan José Elhuyar", "Year": 1783, "Country": "Spain"}
+},
+"Re": {
+"Basic Info": {"Name": "Rhenium", "Symbol": "Re", "Atomic Number": 75, "Atomic Mass": "186.21 u", "Group": 7, "Period": 6, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "3186°C", "Boiling Point": "5596°C", "Density": "21.02 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "760 kJ/mol", "Atomic Radius": "137 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d⁵ 6s²"},
+"Uses": ["Jet engines", "Catalysts"],
+"Fun Fact": "Last stable element discovered!",
+"History": {"Discoverer": "Noddack, Tacke & Berg", "Year": 1925, "Country": "Germany"}
+},
+"Os": {
+"Basic Info": {"Name": "Osmium", "Symbol": "Os", "Atomic Number": 76, "Atomic Mass": "190.23 u", "Group": 8, "Period": 6, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "3033°C", "Boiling Point": "5012°C", "Density": "22.59 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "840 kJ/mol", "Atomic Radius": "135 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d⁶ 6s²"},
+"Uses": ["Fountain pen tips", "Fingerprint detection"],
+"Fun Fact": "Densest natural element on Earth!",
+"History": {"Discoverer": "Smithson Tennant", "Year": 1803, "Country": "England"}
+},
+"Ir": {
+"Basic Info": {"Name": "Iridium", "Symbol": "Ir", "Atomic Number": 77, "Atomic Mass": "192.22 u", "Group": 9, "Period": 6, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "2446°C", "Boiling Point": "4428°C", "Density": "22.56 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "880 kJ/mol", "Atomic Radius": "136 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d⁷ 6s²"},
+"Uses": ["Spark plugs", "Dinosaur extinction layer"],
+"Fun Fact": "Layer of iridium marks the dinosaur extinction!",
+"History": {"Discoverer": "Smithson Tennant", "Year": 1803, "Country": "England"}
+},
+"Pt": {
+"Basic Info": {"Name": "Platinum", "Symbol": "Pt", "Atomic Number": 78, "Atomic Mass": "195.08 u", "Group": 10, "Period": 6, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1768.3°C", "Boiling Point": "3825°C", "Density": "21.45 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "870 kJ/mol", "Atomic Radius": "139 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d⁹ 6s¹"},
+"Uses": ["Jewelry", "Catalytic converters"],
+"Fun Fact": "Rarer than gold!",
+"History": {"Discoverer": "Antonio de Ulloa", "Year": 1735, "Country": "Spain"}
+},
+"Au": {
+"Basic Info": {"Name": "Gold", "Symbol": "Au", "Atomic Number": 79, "Atomic Mass": "196.97 u", "Group": 11, "Period": 6, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "1064.18°C", "Boiling Point": "2856°C", "Density": "19.30 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "890 kJ/mol", "Atomic Radius": "144 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d¹⁰ 6s¹"},
+"Uses": ["Jewelry", "Electronics", "Money"],
+"Fun Fact": "All gold came from supernovae!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "—"}
+},
+"Hg": {
+"Basic Info": {"Name": "Mercury", "Symbol": "Hg", "Atomic Number": 80, "Atomic Mass": "200.59 u", "Group": 12, "Period": 6, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "-38.83°C", "Boiling Point": "356.73°C", "Density": "13.53 g/cm³", "State at 25°C": "Liquid"},
+"Atomic Properties": {"Ionization Energy": "1007 kJ/mol", "Atomic Radius": "151 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"},
+"Uses": ["Thermometers", "Fluorescent lamps"],
+"Fun Fact": "Only metal liquid at room temperature!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "—"}
+},
+"Tl": {
+"Basic Info": {"Name": "Thallium", "Symbol": "Tl", "Atomic Number": 81, "Atomic Mass": "204.38 u", "Group": 13, "Period": 6, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "304°C", "Boiling Point": "1473°C", "Density": "11.85 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "589 kJ/mol", "Atomic Radius": "170 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹"},
+"Uses": ["Rat poison", "Electronics"],
+"Fun Fact": "More toxic than arsenic!",
+"History": {"Discoverer": "William Crookes", "Year": 1861, "Country": "England"}
+},
+"Pb": {
+"Basic Info": {"Name": "Lead", "Symbol": "Pb", "Atomic Number": 82, "Atomic Mass": "207.2 u", "Group": 14, "Period": 6, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "327.46°C", "Boiling Point": "1749°C", "Density": "11.34 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "716 kJ/mol", "Atomic Radius": "175 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p²"},
+"Uses": ["Batteries", "Radiation shielding"],
+"Fun Fact": "Used since Roman times for plumbing!",
+"History": {"Discoverer": "Ancient", "Year": "—", "Country": "—"}
+},
+"Bi": {
+"Basic Info": {"Name": "Bismuth", "Symbol": "Bi", "Atomic Number": 83, "Atomic Mass": "208.98 u", "Group": 15, "Period": 6, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "271.3°C", "Boiling Point": "1564°C", "Density": "9.78 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "703 kJ/mol", "Atomic Radius": "156 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³"},
+"Uses": ["Pepto-Bismol", "Fire sprinklers"],
+"Fun Fact": "Beautiful rainbow crystals!",
+"History": {"Discoverer": "Claude Geoffroy", "Year": 1753, "Country": "France"}
+},
+"Po": {
+"Basic Info": {"Name": "Polonium", "Symbol": "Po", "Atomic Number": 84, "Atomic Mass": "[209] u", "Group": 16, "Period": 6, "Category": "Metalloid"},
+"Physical Properties": {"Melting Point": "254°C", "Boiling Point": "962°C", "Density": "9.196 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "812 kJ/mol", "Atomic Radius": "168 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴"},
+"Uses": ["Anti-static devices", "Nuclear batteries"],
+"Fun Fact": "Named after Poland (Marie Curie's homeland)!",
+"History": {"Discoverer": "Marie & Pierre Curie", "Year": 1898, "Country": "France"}
+},
+"At": {
+"Basic Info": {"Name": "Astatine", "Symbol": "At", "Atomic Number": 85, "Atomic Mass": "[210] u", "Group": 17, "Period": 6, "Category": "Halogen"},
+"Physical Properties": {"Melting Point": "302°C", "Boiling Point": "337°C", "Density": "6.35 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "920 kJ/mol", "Atomic Radius": "150 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵"},
+"Uses": ["Cancer treatment (experimental)"],
+"Fun Fact": "Rarest natural element on Earth! (<1 gram)",
+"History": {"Discoverer": "Corson, MacKenzie & Segrè", "Year": 1940, "Country": "USA"}
+},
+"Rn": {
+"Basic Info": {"Name": "Radon", "Symbol": "Rn", "Atomic Number": 86, "Atomic Mass": "[222] u", "Group": 18, "Period": 6, "Category": "Noble Gas"},
+"Physical Properties": {"Melting Point": "-71°C", "Boiling Point": "-61.7°C", "Density": "9.73 g/L", "State at 25°C": "Gas"},
+"Atomic Properties": {"Ionization Energy": "1037 kJ/mol", "Atomic Radius": "150 pm", "Electron Configuration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶"},
+"Uses": ["Cancer radiotherapy (limited)"],
+"Fun Fact": "Responsible for most background radiation!",
+"History": {"Discoverer": "Friedrich Dorn", "Year": 1900, "Country": "Germany"}
+},
+"Fr": {
+"Basic Info": {"Name": "Francium", "Symbol": "Fr", "Atomic Number": 87, "Atomic Mass": "[223] u", "Group": 1, "Period": 7, "Category": "Alkali Metal"},
+"Physical Properties": {"Melting Point": "27°C", "Boiling Point": "677°C", "Density": "1.87 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "393 kJ/mol", "Atomic Radius": "270 pm", "Electron Configuration": "[Rn] 7s¹"},
+"Uses": ["Research only"],
+"Fun Fact": "Rarest alkali metal—only ~30g on Earth!",
+"History": {"Discoverer": "Marguerite Perey", "Year": 1939, "Country": "France"}
+},
+"Ra": {
+"Basic Info": {"Name": "Radium", "Symbol": "Ra", "Atomic Number": 88, "Atomic Mass": "[226] u", "Group": 2, "Period": 7, "Category": "Alkaline Earth Metal"},
+"Physical Properties": {"Melting Point": "700°C", "Boiling Point": "1737°C", "Density": "5.5 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "509 kJ/mol", "Atomic Radius": "215 pm", "Electron Configuration": "[Rn] 7s²"},
+"Uses": ["Historical luminous paint", "Radiotherapy"],
+"Fun Fact": "Discovered by Marie Curie!",
+"History": {"Discoverer": "Marie & Pierre Curie", "Year": 1898, "Country": "France"}
+},
+"Ac": {
+"Basic Info": {"Name": "Actinium", "Symbol": "Ac", "Atomic Number": 89, "Atomic Mass": "[227] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "1050°C", "Boiling Point": "3200°C", "Density": "10.07 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "499 kJ/mol", "Atomic Radius": "195 pm", "Electron Configuration": "[Rn] 6d¹ 7s²"},
+"Uses": ["Neutron sources", "Cancer therapy"],
+"Fun Fact": "Glows blue in the dark!",
+"History": {"Discoverer": "André Debierne", "Year": 1899, "Country": "France"}
+},
+"Th": {
+"Basic Info": {"Name": "Thorium", "Symbol": "Th", "Atomic Number": 90, "Atomic Mass": "232.04 u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "1750°C", "Boiling Point": "4788°C", "Density": "11.72 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "587 kJ/mol", "Atomic Radius": "180 pm", "Electron Configuration": "[Rn] 6d² 7s²"},
+"Uses": ["Nuclear fuel", "Gas mantles"],
+"Fun Fact": "Can power the world for 1000s of years!",
+"History": {"Discoverer": "Jöns Berzelius", "Year": 1828, "Country": "Sweden"}
+},
+"Pa": {
+"Basic Info": {"Name": "Protactinium", "Symbol": "Pa", "Atomic Number": 91, "Atomic Mass": "231.04 u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "1572°C", "Boiling Point": "4027°C", "Density": "15.37 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "568 kJ/mol", "Atomic Radius": "163 pm", "Electron Configuration": "[Rn] 5f² 6d¹ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "One of the rarest naturally occurring elements!",
+"History": {"Discoverer": "Hahn & Meitner", "Year": 1917, "Country": "Germany"}
+},
+"U": {
+"Basic Info": {"Name": "Uranium", "Symbol": "U", "Atomic Number": 92, "Atomic Mass": "238.03 u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "1132°C", "Boiling Point": "4131°C", "Density": "18.95 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "598 kJ/mol", "Atomic Radius": "156 pm", "Electron Configuration": "[Rn] 5f³ 6d¹ 7s²"},
+"Uses": ["Nuclear power", "Atomic bombs"],
+"Fun Fact": "Last naturally occurring element!",
+"History": {"Discoverer": "Martin Klaproth", "Year": 1789, "Country": "Germany"}
+},
+"Np": {
+"Basic Info": {"Name": "Neptunium", "Symbol": "Np", "Atomic Number": 93, "Atomic Mass": "[237] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "644°C", "Boiling Point": "3902°C", "Density": "20.45 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "605 kJ/mol", "Atomic Radius": "155 pm", "Electron Configuration": "[Rn] 5f⁴ 6d¹ 7s²"},
+"Uses": ["Research", "Nuclear batteries"],
+"Fun Fact": "First transuranium element!",
+"History": {"Discoverer": "McMillan & Abelson", "Year": 1940, "Country": "USA"}
+},
+"Pu": {
+"Basic Info": {"Name": "Plutonium", "Symbol": "Pu", "Atomic Number": 94, "Atomic Mass": "[244] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "639.4°C", "Boiling Point": "3228°C", "Density": "19.86 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "585 kJ/mol", "Atomic Radius": "159 pm", "Electron Configuration": "[Rn] 5f⁶ 7s²"},
+"Uses": ["Nuclear weapons", "Space probes"],
+"Fun Fact": "Used to power the Voyager spacecraft!",
+"History": {"Discoverer": "Seaborg et al.", "Year": 1940, "Country": "USA"}
+},
+"Am": {
+"Basic Info": {"Name": "Americium", "Symbol": "Am", "Atomic Number": 95, "Atomic Mass": "[243] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "1176°C", "Boiling Point": "2607°C", "Density": "13.67 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "578 kJ/mol", "Atomic Radius": "173 pm", "Electron Configuration": "[Rn] 5f⁷ 7s²"},
+"Uses": ["Smoke detectors"],
+"Fun Fact": "In every smoke detector in your house!",
+"History": {"Discoverer": "Seaborg et al.", "Year": 1944, "Country": "USA"}
+},
+"Cm": {
+"Basic Info": {"Name": "Curium", "Symbol": "Cm", "Atomic Number": 96, "Atomic Mass": "[247] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "1340°C", "Boiling Point": "3110°C", "Density": "13.51 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "581 kJ/mol", "Atomic Radius": "174 pm", "Electron Configuration": "[Rn] 5f⁷ 6d¹ 7s²"},
+"Uses": ["Space batteries"],
+"Fun Fact": "Named after Marie & Pierre Curie!",
+"History": {"Discoverer": "Seaborg et al.", "Year": 1944, "Country": "USA"}
+},
+"Bk": {
+"Basic Info": {"Name": "Berkelium", "Symbol": "Bk", "Atomic Number": 97, "Atomic Mass": "[247] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "986°C", "Boiling Point": "2627°C", "Density": "14.79 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "601 kJ/mol", "Atomic Radius": "170 pm", "Electron Configuration": "[Rn] 5f⁹ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Berkeley, California!",
+"History": {"Discoverer": "Seaborg et al.", "Year": 1949, "Country": "USA"}
+},
+"Cf": {
+"Basic Info": {"Name": "Californium", "Symbol": "Cf", "Atomic Number": 98, "Atomic Mass": "[251] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "900°C", "Boiling Point": "1470°C", "Density": "15.1 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "608 kJ/mol", "Atomic Radius": "168 pm", "Electron Configuration": "[Rn] 5f¹⁰ 7s²"},
+"Uses": ["Neutron sources", "Cancer therapy"],
+"Fun Fact": "One gram costs $27 million!",
+"History": {"Discoverer": "Seaborg et al.", "Year": 1950, "Country": "USA"}
+},
+"Es": {
+"Basic Info": {"Name": "Einsteinium", "Symbol": "Es", "Atomic Number": 99, "Atomic Mass": "[252] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "860°C", "Boiling Point": "996°C", "Density": "8.84 g/cm³", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "619 kJ/mol", "Atomic Radius": "165 pm", "Electron Configuration": "[Rn] 5f¹¹ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Discovered in the first H-bomb explosion!",
+"History": {"Discoverer": "Ghiorso et al.", "Year": 1952, "Country": "USA"}
+},
+"Fm": {
+"Basic Info": {"Name": "Fermium", "Symbol": "Fm", "Atomic Number": 100, "Atomic Mass": "[257] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "1527°C", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "627 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹² 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Enrico Fermi!",
+"History": {"Discoverer": "Ghiorso et al.", "Year": 1952, "Country": "USA"}
+},
+"Md": {
+"Basic Info": {"Name": "Mendelevium", "Symbol": "Md", "Atomic Number": 101, "Atomic Mass": "[258] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "827°C", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "635 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹³ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Dmitri Mendeleev!",
+"History": {"Discoverer": "Ghiorso et al.", "Year": 1955, "Country": "USA"}
+},
+"No": {
+"Basic Info": {"Name": "Nobelium", "Symbol": "No", "Atomic Number": 102, "Atomic Mass": "[259] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "827°C", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "642 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Alfred Nobel!",
+"History": {"Discoverer": "Ghiorso et al.", "Year": 1958, "Country": "Sweden/USA"}
+},
+"Lr": {
+"Basic Info": {"Name": "Lawrencium", "Symbol": "Lr", "Atomic Number": 103, "Atomic Mass": "[266] u", "Group": 3, "Period": 7, "Category": "Actinide"},
+"Physical Properties": {"Melting Point": "1627°C", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "470 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 7s² 7p¹"},
+"Uses": ["Research only"],
+"Fun Fact": "Last of the actinides!",
+"History": {"Discoverer": "Ghiorso et al.", "Year": 1961, "Country": "USA"}
+},
+"Rf": {
+"Basic Info": {"Name": "Rutherfordium", "Symbol": "Rf", "Atomic Number": 104, "Atomic Mass": "[267] u", "Group": 4, "Period": 7, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "580 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d² 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Ernest Rutherford!",
+"History": {"Discoverer": "Ghiorso et al.", "Year": 1964, "Country": "USA/USSR"}
+},
+"Db": {
+"Basic Info": {"Name": "Dubnium", "Symbol": "Db", "Atomic Number": 105, "Atomic Mass": "[268] u", "Group": 5, "Period": 7, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "665 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d³ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Dubna (Russian lab)!",
+"History": {"Discoverer": "Ghiorso et al.", "Year": 1967, "Country": "USA/USSR"}
+},
+"Sg": {
+"Basic Info": {"Name": "Seaborgium", "Symbol": "Sg", "Atomic Number": 106, "Atomic Mass": "[269] u", "Group": 6, "Period": 7, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "753 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d⁴ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Glenn Seaborg (still alive when named)!",
+"History": {"Discoverer": "Ghiorso et al.", "Year": 1974, "Country": "USA"}
+},
+"Bh": {
+"Basic Info": {"Name": "Bohrium", "Symbol": "Bh", "Atomic Number": 107, "Atomic Mass": "[270] u", "Group": 7, "Period": 7, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "740 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d⁵ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Niels Bohr!",
+"History": {"Discoverer": "Armbruster et al.", "Year": 1981, "Country": "Germany"}
+},
+"Hs": {
+"Basic Info": {"Name": "Hassium", "Symbol": "Hs", "Atomic Number": 108, "Atomic Mass": "[269] u", "Group": 8, "Period": 7, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "730 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d⁶ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Hesse (German state)!",
+"History": {"Discoverer": "Armbruster et al.", "Year": 1984, "Country": "Germany"}
+},
+"Mt": {
+"Basic Info": {"Name": "Meitnerium", "Symbol": "Mt", "Atomic Number": 109, "Atomic Mass": "[278] u", "Group": 9, "Period": 7, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "800 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d⁷ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Lise Meitner!",
+"History": {"Discoverer": "Armbruster et al.", "Year": 1982, "Country": "Germany"}
+},
+"Ds": {
+"Basic Info": {"Name": "Darmstadtium", "Symbol": "Ds", "Atomic Number": 110, "Atomic Mass": "[281] u", "Group": 10, "Period": 7, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "960 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d⁸ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Darmstadt (German city)!",
+"History": {"Discoverer": "Hofmann et al.", "Year": 1994, "Country": "Germany"}
+},
+"Rg": {
+"Basic Info": {"Name": "Roentgenium", "Symbol": "Rg", "Atomic Number": 111, "Atomic Mass": "[282] u", "Group": 11, "Period": 7, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid"},
+"Atomic Properties": {"Ionization Energy": "1020 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d⁹ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Wilhelm Röntgen (X-rays)!",
+"History": {"Discoverer": "Hofmann et al.", "Year": 1994, "Country": "Germany"}
+},
+"Cn": {
+"Basic Info": {"Name": "Copernicium", "Symbol": "Cn", "Atomic Number": 112, "Atomic Mass": "[285] u", "Group": 12, "Period": 7, "Category": "Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Gas (predicted)"},
+"Atomic Properties": {"Ionization Energy": "1155 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d¹⁰ 7s²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Nicolaus Copernicus!",
+"History": {"Discoverer": "Hofmann et al.", "Year": 1996, "Country": "Germany"}
+},
+"Nh": {
+"Basic Info": {"Name": "Nihonium", "Symbol": "Nh", "Atomic Number": 113, "Atomic Mass": "[286] u", "Group": 13, "Period": 7, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid (predicted)"},
+"Atomic Properties": {"Ionization Energy": "705 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p¹"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Nihon (Japan)!",
+"History": {"Discoverer": "RIKEN (Japan)", "Year": 2003, "Country": "Japan"}
+},
+"Fl": {
+"Basic Info": {"Name": "Flerovium", "Symbol": "Fl", "Atomic Number": 114, "Atomic Mass": "[289] u", "Group": 14, "Period": 7, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid (predicted)"},
+"Atomic Properties": {"Ionization Energy": "824 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p²"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Flerov lab (Russia)!",
+"History": {"Discoverer": "JINR (Russia)", "Year": 1998, "Country": "Russia"}
+},
+"Mc": {
+"Basic Info": {"Name": "Moscovium", "Symbol": "Mc", "Atomic Number": 115, "Atomic Mass": "[290] u", "Group": 15, "Period": 7, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid (predicted)"},
+"Atomic Properties": {"Ionization Energy": "539 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p³"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Moscow (Russia)!",
+"History": {"Discoverer": "JINR (Russia)", "Year": 2003, "Country": "Russia"}
+},
+"Lv": {
+"Basic Info": {"Name": "Livermorium", "Symbol": "Lv", "Atomic Number": 116, "Atomic Mass": "[293] u", "Group": 16, "Period": 7, "Category": "Post-Transition Metal"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid (predicted)"},
+"Atomic Properties": {"Ionization Energy": "724 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Livermore lab (USA)!",
+"History": {"Discoverer": "JINR & LLNL", "Year": 2000, "Country": "Russia/USA"}
+},
+"Ts": {
+"Basic Info": {"Name": "Tennessine", "Symbol": "Ts", "Atomic Number": 117, "Atomic Mass": "[294] u", "Group": 17, "Period": 7, "Category": "Halogen"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Solid (predicted)"},
+"Atomic Properties": {"Ionization Energy": "743 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Tennessee (USA)!",
+"History": {"Discoverer": "JINR & ORNL", "Year": 2010, "Country": "Russia/USA"}
+},
+"Og": {
+"Basic Info": {"Name": "Oganesson", "Symbol": "Og", "Atomic Number": 118, "Atomic Mass": "[294] u", "Group": 18, "Period": 7, "Category": "Noble Gas"},
+"Physical Properties": {"Melting Point": "Unknown", "Boiling Point": "Unknown", "Density": "Unknown", "State at 25°C": "Gas (predicted)"},
+"Atomic Properties": {"Ionization Energy": "839 kJ/mol", "Atomic Radius": "Unknown", "Electron Configuration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶"},
+"Uses": ["Research only"],
+"Fun Fact": "Named after Yuri Oganessian!",
+"History": {"Discoverer": "JINR & LLNL", "Year": 2002, "Country": "Russia/USA"}
+}
+}

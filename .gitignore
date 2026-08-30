@@ -1,0 +1,95 @@
+# ================================
+# Python
+# ================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ================================
+# IDEs & Editors
+# ================================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ================================
+# Operating System
+# ================================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# ================================
+# Testing / Coverage
+# ================================
+
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# ================================
+# Logs
+# ================================
+
+*.log
+
+# ================================
+# Local / Temporary Files
+# ================================
+
+*.tmp
+*.temp
+*.bak
+
+# ================================
+# Environment / Secrets
+# ================================
+
+.env
+.env.*
+!.env.example
+
+# ================================
+# Build / Executable Files
+# ================================
+
+*.exe
+*.msi
+*.spec
+
+# ================================
+# Project-specific
+# ================================
+
+# Local test files
+test/
+tests/
+
+# Personal notes
+notes/
